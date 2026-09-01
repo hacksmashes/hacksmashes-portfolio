@@ -11,7 +11,7 @@ export function Projects() {
         <Reveal>
           <SectionHeading
             tag="work"
-            title="Featured projects"
+            title="Concept Projects"
             description="A sample of recent work. Names and metrics are placeholders where the original details are confidential — ask for specifics."
           />
         </Reveal>
